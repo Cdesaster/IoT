@@ -8,9 +8,9 @@
 # ==============================================================================
 # with a set composed by
 # Layers
-#   -> Hardware layer [Arduino, Raspberry and Sensors].
+#   -> Hardwar [Arduino, Raspberry and Sensors].
 #     + Raspberry : Raspberry pi 3 b+ with Sd card 64Gb
 #     + Arduino   : NodeMCU Lua Lolin V3 Module ESP8266 ESP-12E WIFI
 #     + Sensors   : DHT11 + 5v relay + micromodule FGR-223 (zwave)
-#   -> Software layer [Mosquitto, RED-NODE, InfluxDB, Jeedom, Grafana]
+#   -> Software [Mosquitto, RED-NODE, InfluxDB, Jeedom, Grafana]
 # ==============================================================================
